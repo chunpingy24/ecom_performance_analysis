@@ -13,7 +13,7 @@ Conducted analysis on excel for an Ecommerce company to identify the overall per
 
 ## Operations
 - Efficiency: Average total time taken for customers to receive their product is 7.5 days. Based on a 2019 [research]([url](https://www.prnewswire.com/news-releases/the-average-online-purchase-delivery-now-takes-2-3-days-thanks-to-amazon-small-businesses-are-finding-ways-to-keep-up-300911374.html#:~:text=In%202019%2C%20Clutch%20found%20that,some%20shoppers%20to%20abandon%20companies.)https://www.prnewswire.com/news-releases/the-average-online-purchase-delivery-now-takes-2-3-days-thanks-to-amazon-small-businesses-are-finding-ways-to-keep-up-300911374.html#:~:text=In%202019%2C%20Clutch%20found%20that,some%20shoppers%20to%20abandon%20companies.),  
-![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/190e6604-0608-4b43-806f-c1ce1a16cc74), the average time taken for customers to receive a product is 2-3 days. Comparatively, the company is taking 3 times longer to deliver the items. There has been no improvement since 2019, and that could have contributed to the big decrease in 2022 sales growth. 
+the average time taken for customers to receive a product is 2-3 days. Comparatively, the company is taking 3 times longer to deliver the items. There has been no improvement since 2019, and that could have contributed to the big decrease in 2022 sales growth. 
 ![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/67ed200c-00f9-4f58-9e68-ac54523c142d)
 
 
