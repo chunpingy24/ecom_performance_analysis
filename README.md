@@ -6,8 +6,10 @@ Conducted analysis on excel for an Ecommerce company to identify the overall per
 
 # Summary of Findings
 ## Sales
-- Seasonality: Typically Jan and Feb are on the lower scale of growth while Nov and December are on the higher scale of growth. This could be due to holiday seasons where there are more exchange in gifts. 2020 (Covid year), there are higher growth rates due to lockdown being enforced which led to consumers making more purchases online.
-- Growth: There was significant sales growth in 2020, mainly contributed by the Covid lockdown and custoemrs starting to buy more items online as well as a rise in remote work. Growth slowly tapered in 2021 and more in 2022. This could be due to  
+- Seasonality: Annually, Q1 and Q3 are the months of lower sales growth while Q2 and Q4 are months of higher sales growth. The only exception was in 2020 (Covid year), where Q1 records higher than normal growth (50%) due to Covid lockdown which led to more online purchases. On average there are 2k orders on the site contributing to average sales of 585k.
+- Growth: There was significant sales growth in 2020 (162%), mainly contributed by the Covid lockdown and custoemrs making more online purchases coupled with a rise in remote work where more computer accessories are being purchased. Growth slowly tapered in 2021 (-10%) and more in 2022 (-45%). 2022 growth indicates that the the company is not as competitive since the main mode of purchase these days are done online. 
+![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/95d3ac69-ad76-46c5-a367-1ac27f641e1e)
+
 
 ## Operations
 - Efficiency: 
