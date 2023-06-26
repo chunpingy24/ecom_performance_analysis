@@ -17,8 +17,8 @@ Conducted analysis on excel for an Ecommerce company to identify the overall per
 
 
 ## Marketing
-- Products: Based on the breakdown of sales by product categories, the clear focus is obvious - Headphones, Computer Accessories, and Computers since these generate about 80% of the annual sales. 
-<img width="1099" alt="image" src="https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/3d97df94-4ca1-47aa-aacf-2b7fb2b2f33c">
+- Products: Based on the breakdown of sales by product categories, the clear focus is obvious - Headphones, Computer Accessories, and Computers since these generate about 80% of the annual sales.
+!<img width="1099" alt="image" src="https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/3d97df94-4ca1-47aa-aacf-2b7fb2b2f33c">
 
 - Loyalty Program: Since 2021, the member sales has outperformed non-member sales by average of 18%. If this trend were to continue, it will be good to continue with the Loyalty Program.
 ![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/9b1b79ec-3dbb-4b61-be2b-02e71da67098)
