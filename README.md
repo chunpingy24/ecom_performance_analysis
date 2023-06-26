@@ -12,10 +12,19 @@ Conducted analysis on excel for an Ecommerce company to identify the overall per
 
 
 ## Operations
-- Efficiency: Average total time taken for customers to receive their product is 7.5 days. Based on a 2019 [research](https://www.prnewswire.com/news-releases/the-average-online-purchase-delivery-now-takes-2-3-days-thanks-to-amazon-small-businesses-are-finding-ways-to-keep-up-300911374.html#:~:text=In%202019%2C%20Clutch%20found%20that,some%20shoppers%20to%20abandon%20companies.),  
-the average time taken for customers to receive a product is 2-3 days. Comparatively, the company is taking 3 times longer to deliver the items. There has been no improvement since 2019, and that could have contributed to the big decrease in 2022 sales growth. 
+- Efficiency: Average total time taken for customers to receive their purchases is 7.5 days. Based on a 2019 [research](https://www.prnewswire.com/news-releases/the-average-online-purchase-delivery-now-takes-2-3-days-thanks-to-amazon-small-businesses-are-finding-ways-to-keep-up-300911374.html#:~:text=In%202019%2C%20Clutch%20found%20that,some%20shoppers%20to%20abandon%20companies.), the average time taken for customers to receive a product is 2-3 days, if it takes any longer it could lead to customers going to competitors. Comparatively, the company is taking 3 times longer to deliver the items. There has been no improvement since 2019, and that could have contributed to the big decrease in 2022 sales growth. 
 ![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/67ed200c-00f9-4f58-9e68-ac54523c142d)
 
 
 ## Marketing
-- Loyalty Program: 
+- Products: Based on the breakdown of sales by product categories, the clear focus is obvious - Headphones, Computer Accessories, and Computers since these generate about 80% of the annual sales. 
+<img width="1099" alt="image" src="https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/3d97df94-4ca1-47aa-aacf-2b7fb2b2f33c">
+
+- Loyalty Program: Since 2021, the member sales has outperformed non-member sales by average of 18%. If this trend were to continue, it will be good to continue with the Loyalty Program.
+![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/9b1b79ec-3dbb-4b61-be2b-02e71da67098)
+
+
+# Next Steps
+1. The company should consider reducing the available product categories they hold to optimize inventory and revenue
+2. While Loyalty Program shows that it contributes to revenue, with more data further analysis can be done to assess (i) profitability of loyalty program; (ii) branding of loyalty program to boost competitiveness of the company.
+3. Steps should be taken to incrementally reduce the average total time taken for customers to receive their purchases so as to boost competitiveness of the firm and improve sales growth of the company.
