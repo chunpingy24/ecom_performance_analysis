@@ -4,7 +4,7 @@ Conducted analysis on excel for an Ecommerce company to identify the overall per
 2. Reassessing Loyalty Program; 
 3. Improve the operational efficiency by 50% (from 7.5 days to 3 days)
 
-Excel analysis can be found [here]((https://github.com/chunpingy24/ecom_performance_analysis/blob/main/ecomm_orders_case_study_final.xlsb)).
+Excel analysis can be found [here](https://github.com/chunpingy24/ecom_performance_analysis/blob/main/ecomm_orders_case_study_final.xlsb).
 # Summary of Findings
 ## Sales
 - Seasonality: Annually, Q1 and Q3 are the months of lower sales growth while Q2 and Q4 are months of higher sales growth. The only exception was in 2020 (Covid year), where Q1 records higher than normal growth (50%) due to Covid lockdown which led to more online purchases. On average there are 2k orders on the site contributing to average sales of 585k.
