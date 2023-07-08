@@ -5,6 +5,7 @@ Conducted analysis on excel for an Ecommerce company to identify the overall per
 3. Improve the operational efficiency by 50% (from 7.5 days to 3 days)
 
 Excel analysis can be found [here](https://github.com/chunpingy24/ecom_performance_analysis/blob/main/ecomm_orders_case_study_final.xlsb).
+SQL Analysis can be found [here](https://github.com/chunpingy24/ecom_performance_analysis/blob/main/sql_analysis.sql)
 # Summary of Findings
 ## Sales
 - Seasonality: Annually, Q1 and Q3 are the months of lower sales growth while Q2 and Q4 are months of higher sales growth. The only exception was in 2020 (Covid year), where Q1 records higher than normal growth (50%) due to Covid lockdown which led to more online purchases. On average there are 2k orders on the site contributing to average sales of 585k.
@@ -21,8 +22,13 @@ Excel analysis can be found [here](https://github.com/chunpingy24/ecom_performan
 - Products: Based on the breakdown of sales by product categories, the clear focus is obvious - ***Headphones, Computer Accessories, and Computers since these generate about 80% of the annual sales***.
 !<img width="1099" alt="image" src="https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/3d97df94-4ca1-47aa-aacf-2b7fb2b2f33c">
 
+- Brand Performance: 
+
 - Loyalty Program: Since 2021, the ***member sales has outperformed non-member sales by average of 18%***. If this trend were to continue, it will be good to continue with the Loyalty Program.
 ![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/9b1b79ec-3dbb-4b61-be2b-02e71da67098)
+
+- Marketing Channels: The best performing marketing channels by region differs but across the board, affiliate and direct marketing channels generate higher average order value than other marketing channels. 
+![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/28ab0b37-58b6-4c5b-a283-2406d6d8a5c2)
 
 
 # Next Steps
