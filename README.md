@@ -1,4 +1,4 @@
-# ecom_performance_analysis
+# ecomm_performance_analysis
 Conducted analysis on excel for an Ecommerce company to identify the overall performance of the company across the departments of Sales, Operations, and Marketing. Overall, the Ecommerce company is ***experiencing growth issues with sales growth reducing by 46%*** in the most recent year ending 2022, up from a decline of 10% in 2021. This is alarming for the company as it affects the profitability and longevity of the company. To turn the company around the company could focus: 
 1. Streamlining the product categories to eliminate categories that doesn't generate much sales like Mobile Phone and Mobile Phone Accessories;
 2. Reassessing Loyalty Program; 
@@ -22,8 +22,6 @@ SQL analysis can be found [here](https://github.com/chunpingy24/ecom_performance
 ## Marketing
 - Products: Based on the breakdown of sales by product categories, the clear focus is obvious - ***Headphones, Computer Accessories, and Computers since these generate about 80% of the annual sales***.
 !<img width="1099" alt="image" src="https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/3d97df94-4ca1-47aa-aacf-2b7fb2b2f33c">
-
-- Brand Performance: 
 
 - Loyalty Program: Since 2021, the ***member sales has outperformed non-member sales by average of 18%***. If this trend were to continue, it will be good to continue with the Loyalty Program.
 ![image](https://github.com/chunpingy24/ecom_performance_analysis/assets/77263279/9b1b79ec-3dbb-4b61-be2b-02e71da67098)
